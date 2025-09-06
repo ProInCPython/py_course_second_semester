@@ -1,0 +1,8 @@
+John;Maths;3,4,3,4,5
+James;Maths;5,4,3,4,5
+Andrew;Maths;3,4,5,4,5
+Bob;Maths;3,4,5,4,5
+Sandra;IT;2,4,5,5
+Elizabeth;IT;3,4
+Lucy;IT;5,5,4
+Martin;IT;4,4,5,4,5,4,5,5,2
